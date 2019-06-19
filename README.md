@@ -1,0 +1,1 @@
+# plugin.program.super.favourites
